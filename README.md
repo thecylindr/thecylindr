@@ -50,10 +50,12 @@
 ---
 
 <p align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecylindr&theme=solarized_dark)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecylindr&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecylindr&theme=solarized_dark)
 </p>
+
 ---
 
 ### 📫 Связь со мной
