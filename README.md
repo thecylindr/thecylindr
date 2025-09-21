@@ -21,13 +21,9 @@
 
 #### **🌐 Сетевые технологии**
 Имею опыт работы с сетевыми протоколами и системами управления пакетами в Linux-средах.
-* ![APT](https://img.shields.io/badge/APT_Packages-8B0000?style=for-the-badge&logo=debian&logoColor=white)
-* ![Flatpak](https://img.shields.io/badge/Flatpak-4A90E2?style=for-the-badge&logo=flatpak&logoColor=white)
-* ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=internet-explorer&logoColor=white)
-* ![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logo=ssh&logoColor=white)
-* ![Firewall](https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge&logo=firewall&logoColor=white)
-* ![DNS](https://img.shields.io/badge/DNS-1a73e8?style=for-the-badge&logo=internet-explorer&logoColor=white)
-
+* ![APT](https://img.shields.io/badge/APT_Packages-8B0000?style=for-the-badge&logo=debian&logoColor=white) ![Flatpak](https://img.shields.io/badge/Flatpak-4A90E2?style=for-the-badge&logo=flatpak&logoColor=white)
+* ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=internet-explorer&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logo=ssh&logoColor=white)
+* ![Firewall](https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge&logo=firewall&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-1a73e8?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 ---
 
