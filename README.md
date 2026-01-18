@@ -21,7 +21,7 @@
 
 #### **🌐 Сетевые технологии**
 Имею опыт работы с сетевыми протоколами и системами управления пакетами в Linux-средах.
-* ![APT](https://img.shields.io/badge/APT_Packages-8B0000?style=for-the-badge&logo=debian&logoColor=white) ![Flatpak](https://img.shields.io/badge/Flatpak-4A90E2?style=for-the-badge&logo=flatpak&logoColor=white)
+* ![APT](https://img.shields.io/badge/APT_Packages-8B0000?style=for-the-badge&logo=debian&logoColor=white) ![Flatpak](https://img.shields.io/badge/Flatpak-4A90E2?style=for-the-badge&logo=flatpak&logoColor=white) ![Pacman](https://img.shields.io/badge/Pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Yay](https://img.shields.io/badge/Yay_AUR-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 * ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=internet-explorer&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logo=ssh&logoColor=white)
 * ![Firewall](https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge&logo=firewall&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-1a73e8?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
@@ -32,6 +32,8 @@
 * ![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 * ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 * ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-7A1FA2?style=for-the-badge&logo=mysql&logoColor=white)
+* ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+* ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 * ![PyCharm Community](https://img.shields.io/badge/PyCharm_Community-556B2F?style=for-the-badge&logo=pycharm&logoColor=white)
 * ![Delphi Community](https://img.shields.io/badge/Delphi_Community-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 * ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
