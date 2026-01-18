@@ -45,8 +45,11 @@
 #### **📚 Изучаемые Языки Программирования**
 Активно изучаю и применяю в проектах следующие языки программирования:
 * ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+  * Изучался как основы алгоритмического программирования.
 * ![Python](https://img.shields.io/badge/Python-006400?style=for-the-badge&logo=python&logoColor=white)
+  * Используемые библиотеки: redis, psycopg2-binary, dotenv, asyncpg, aiogram, pyrogram, urwid.
 * ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  * Изучается и на данный момент как основной язык программирования на линукс и для Qt разработки GUI приложений.
 
 ---
 
@@ -64,6 +67,10 @@
 * ![C++ Advanced](https://img.shields.io/badge/C++_Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) - **Продвинутое программирование на C++**
 * ![1C](https://img.shields.io/badge/1C-FF0000?style=for-the-badge&logo=1c&logoColor=white) - **1C:Предприятие**
   
+---
+### 🐍 Моя активность
+
+![Snake animation](https://github.com/thecylindr/thecylindr/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center">
