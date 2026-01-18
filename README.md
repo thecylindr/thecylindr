@@ -34,6 +34,7 @@
 * ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-7A1FA2?style=for-the-badge&logo=mysql&logoColor=white)
 * ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 * ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+* ![LunarVim](https://img.shields.io/badge/LunarVim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 * ![PyCharm Community](https://img.shields.io/badge/PyCharm_Community-556B2F?style=for-the-badge&logo=pycharm&logoColor=white)
 * ![Delphi Community](https://img.shields.io/badge/Delphi_Community-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 * ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
