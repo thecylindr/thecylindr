@@ -68,7 +68,15 @@
 </details>
 
 ### 📚 Языки программирования
-<img src="https://skillicons.dev/icons?i=python,cpp,delphi" />
+<img src="https://skillicons.dev/icons?i=python,cpp,python" />
+
+<details>
+<summary>👨‍🦳 Языки программирования по которым учился</summary>
+
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-FF6C37?style=for-the-badge&logo=pascal&logoColor=white)
+
+</details>
 
 <details>
 <summary>📦 Библиотеки Python</summary>
