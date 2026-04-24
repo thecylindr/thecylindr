@@ -2,14 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+science+student;Linux+enthusiast;C%2B%2B+%7C+Python+developer" alt="Typing SVG" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=AI%20Exploration&fontSize=40" width="100%"/>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,debian,linux,ubuntu,arch" />
   <h1>🧑‍💻 Цилиндр</h1>
-</div>
-
-<div align="center">
-  <a href="https://github.com/thecylindr"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthecylindr&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false" alt="Profile views" /></a>
-  <a href="mailto:Dmitrijzloj2006@yandex.ru"><img src="https://img.shields.io/badge/Email-Dmitrijzloj2006%40yandex.ru-8B89CC?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
@@ -26,7 +23,7 @@
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="140" />
 </td>
 </tr>
 </table>
@@ -89,9 +86,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
 
 ### 🚀 Планирую изучить/углубить
-<img src="https://skillicons.dev/icons?i=docker,qt,cpp" />
-![AI](https://img.shields.io/badge/AI-3766AB?style=for-the-badge&logo=python&logoColor=white)
-![1C](https://img.shields.io/badge/1C-FF6500?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,cpp,python" />
 
 </div>
 
@@ -105,14 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecylindr&layout=compact&theme=solarized-dark&hide_border=true&bg_color=00000000&title_color=36BCF7" width="40%" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecylindr&theme=solarized_dark" />
-</div>
-
----
-
-## 🐍 Мой змеиный вклад
-
-<div align="center">
-  <img src="https://github.com/thecylindr/thecylindr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
