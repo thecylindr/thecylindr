@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="80%">
 
 🎓 Студент компьютерных наук, увлечённый разработкой ПО и изучением новых технологий.  
 🐧 Линуксоид, программирую в **LunarVim** и обожаю автоматизировать всё, что можно.  
@@ -90,8 +90,8 @@
 
 ### 🚀 Планирую изучить/углубить
 <img src="https://skillicons.dev/icons?i=docker,qt,cpp" />
-![AI Python](https://img.shields.io/badge/AI_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![1C](https://img.shields.io/badge/1C-FF0000?style=for-the-badge&logo=1c&logoColor=white)
+![AI](https://img.shields.io/badge/AI-3766AB?style=for-the-badge&logo=python&logoColor=white)
+![1C](https://img.shields.io/badge/1C-FF6500?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=&logoColor=white)
 
 </div>
 
@@ -129,10 +129,4 @@
   <br/><br/>
   
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</div>
-
----
-
-<div align="center">
-  <sub>❤️ Сделано с помощью <a href="https://skillicons.dev">Skill Icons</a> и <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></sub>
 </div>
