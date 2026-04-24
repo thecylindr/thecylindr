@@ -1,12 +1,7 @@
+<img align="center" alt="Forest Green Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5F2D,100:97BC62&height=120&section=header&text=Цилиндр&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+science+student;Linux+enthusiast;C%2B%2B+%7C+Python+developer" alt="Typing SVG" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=AI%20Exploration&fontSize=40" width="100%"/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,debian,linux,ubuntu,arch" />
-  <h1>🧑‍💻 Цилиндр</h1>
 </div>
 
 ---
